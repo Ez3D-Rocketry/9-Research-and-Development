@@ -27,12 +27,13 @@ Note: Most performance numbers are not verified. Initial cuts are from sim data 
 
 All the designs incorporate a threaded base with a 'retaining nut'. It looks easy now but look a long time to incorporate. Here's why:
 
-1. Although FreeCAD can make bolts, it is difficuly to add external threads to an existing column. Yes, there are several work around on YouTube and forums but none worked out well.
+1. Although FreeCAD can make bolts, it is difficult to add external threads to an existing column. Yes, there are several work around on YouTube and forums but none worked out well.
    - The external threads were made with Autodesk Fusion, exported as a .stl file, and added to the existing fin can drawing in FreeCAD.
-   - When exporting the FreeCAD part into a STL file, be sure to also select teh threaded base.
+   - When exporting the FreeCAD part into a STL file, be sure to also select the threaded base.
 2. FreeCAD does have a feature to make a threaded hole. This is used to make the motor retention retaining nut.
-3. Even though I selected the same thread paramaters on the but and bolt, the fit was too tight to work. That's why there are scaled up versions of the retaining bolt.
+3. Even though I selected the same thread parameters on the but and bolt, the fit was too tight to work. That's why there are scaled up versions of the retaining bolt.
     - +3% and +5%  in the X and Y direction were sufficient to get a good fit for the first flight
 4. After the first flight, the scaled up retaining nuts no longer fit due to the PLA shrinking from the heat. That's why the small retaining nuts are included.
    - I chose to stick with PLA since that's what most of us 3D printing noobs use.
-5. I tried several ways to incorporate metal motor hooks but the complications were not worth it. 
+5. I tried several ways to incorporate metal motor hooks but the complications were not worth it.
+
