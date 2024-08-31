@@ -28,7 +28,7 @@ Note: Most performance numbers are not verified. Initial cuts are from sim data 
 All the designs incorporate a threaded base with a 'retaining nut'. It looks easy now but look a long time to incorporate. Here's why:
 
 1. Although FreeCAD can make bolts, it is difficult to add external threads to an existing column. Yes, there are several work around on YouTube and forums but none worked out well.
-   - The external threads were made with Autodesk Fusion, exported as a .stl file, and added to the existing fin can drawing in FreeCAD.
+   - The external threads were made with Autodesk Fusion, exported as a .stl file, and added to the existing fin can drawing in FreeCAD. Files included above.
    - When exporting the FreeCAD part into a STL file, be sure to also select the threaded base.
 2. FreeCAD does have a feature to make a threaded hole. This is used to make the motor retention retaining nut.
 3. Even though I selected the same thread parameters on the but and bolt, the fit was too tight to work. That's why there are scaled up versions of the retaining bolt.
