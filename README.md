@@ -37,3 +37,11 @@ All the designs incorporate a threaded base with a 'retaining nut'. It looks eas
    - I chose to stick with PLA since that's what most of us 3D printing noobs use.
 5. I tried several ways to incorporate metal motor hooks but the complications were not worth it.
 
+# Motor Mount Shrinkage - the other challenge
+The goal is to make a model that can be built with PLA filament since it is most common and used by beginners. However, PLA tends to shrink after heating which causes the motor mount area to shrink. 
+After a few flights the motors may become stuck or unloadable. 
+
+To mitigate this, a tapered motor mount tube is used. The motor has a loose fit but maintains centering with the top sloping of the traditional "Engine Block" and the aft section is narrower and relatively cool from insulating effect of the clay nozzle. 
+ - Note: The sloping of the "Engine Block" was to make it "3D printable" without supports. The 'centering' effect is now an added benefit.
+
+ - Currently only the Ez3D Mini has been test flown in this configuration. After three flights, the motors showed no signs of tightness (Ref: flights on a 70deg cloudy day). 
