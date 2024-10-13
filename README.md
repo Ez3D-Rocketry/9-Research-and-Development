@@ -44,4 +44,10 @@ After a few flights the motors may become stuck or unloadable.
 To mitigate this, a tapered motor mount tube is used. The motor has a loose fit but maintains centering with the top sloping of the traditional "Engine Block" and the aft section is narrower and relatively cool from insulating effect of the clay nozzle. 
  - Note: The sloping of the "Engine Block" was to make it "3D printable" without supports. The 'centering' effect is now an added benefit.
 
- - Currently only the Ez3D Mini has been test flown in this configuration. After three flights, the motors showed no signs of tightness (Ref: flights on a 70deg cloudy day). 
+ - Currently only the Ez3D Mini has been test flown in this configuration. After three flights, the motors showed no signs of tightness (Ref: flights on a 70deg cloudy day).
+
+# It's the little things
+- The early version of the 1850 used a 6 inch tube and single launch lug on the fin can. During a C6 flight, the fin with the lug snapped off while heading up the rod (the rod was rusty rod which may have contributed). Fortunately the model went downrange but now the 1850 model includes the tube launch lug (same reasoning with the 18PT). It's also now a 9 inch tube to increase stability margins with heaver motors.
+- Ejection charges from larger motors cause more melting damage to the tube adapter section that holds the recover harness. Some of the larger models have a 2mm thick wall to increase durabilty.
+- A 4mm internal diameter works fine for a 1/8" launch rod but I increased it to 4.5mm to allow for rods with 'imperfections'.
+  
